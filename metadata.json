@@ -1,0 +1,5 @@
+{
+  "name": "Torrent X",
+  "description": "A production-ready Android torrent search application with real-time settings persistence, trending browsing, and custom provider management.",
+  "requestFramePermissions": []
+}
